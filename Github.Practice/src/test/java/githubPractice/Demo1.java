@@ -2,10 +2,11 @@ package githubPractice;
 
 import org.testng.annotations.Test;
 
-public class DemoTest 
+public class Demo1 
 {
 	@Test
-	public void demoTest() {
-		System.out.println("GitHub");
+	public void demo() {
+		System.out.println("GitHub 2");
 	}
+
 }
