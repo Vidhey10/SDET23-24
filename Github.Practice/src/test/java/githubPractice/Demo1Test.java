@@ -6,7 +6,7 @@ public class Demo1Test
 {
 	@Test
 	public void demo() {
-		System.out.println("GitHub 2");
+		System.out.println("Jenkins 1");
+		System.out.println("Jenkins 2");
 	}
-
 }
