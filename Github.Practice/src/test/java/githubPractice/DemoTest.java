@@ -7,7 +7,7 @@ public class DemoTest
 {
 	@Test
 	public void demoTest() {
-		System.out.println("GitHub");
-		Assert.fail();
+		System.out.println("GitHub 1");
+		System.out.println("Github 2");
 	}
 }
