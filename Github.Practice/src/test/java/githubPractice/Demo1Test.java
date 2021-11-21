@@ -8,5 +8,6 @@ public class Demo1Test
 	public void demo() {
 		System.out.println("Jenkins 1");
 		System.out.println("Jenkins 2");
+		System.out.println("Jenkins 3");
 	}
 }
